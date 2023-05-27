@@ -6,3 +6,5 @@ New comment about testing
 
 fuck U
 
+Conflict should be present
+
